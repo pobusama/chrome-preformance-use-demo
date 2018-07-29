@@ -1,0 +1,15 @@
+{
+  "name": "chrome-preformance-use-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo1": "cd demo1 && sts",
+    "demo2": "cd demo2 && sts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sts": "^2.0.2"
+  }
+}
